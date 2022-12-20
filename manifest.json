@@ -1,0 +1,13 @@
+{
+    "name": "Project",
+    "short_name": "Project Tibe Demeulemeester",
+    "icons": [
+        {
+            "src": "google-touch-icon.png",
+            "sizes": "512x512"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
